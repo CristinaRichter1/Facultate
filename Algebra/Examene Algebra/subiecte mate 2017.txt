@@ -1,0 +1,15 @@
+ --- Algebra --
+-Subiecte 2017- 
+- Var A - 
+
+1. Vector in alta baza. Dar era primul pivot 0 , deci ai grija.
+2. Functionala patratica. Jacobi
+3. Proiectia ortogonala a unui vector pe un subspatiu
+4. SEDL1. Sistem Jordan.
+5. Spatiu euclidian. Proiectie ortogonala. Produs scalar
+ - Nu s-a dat aia usoara cu C [(0,1)] 
+Dar s-a dat una in care foloseai proprietatea ca daca z ortogonal pe t rezulta <p,t>=0 - 
+6. Suma directa - definitie si dem ca suma directa x1+x2 =R3  
+7. Definitii pe la operatori liniari.Proprietati la ker si Im si Th. dimensiunii
+8. Matricea de reprezentare a unei functionale patratice intr-un reper dat.
+9. Adjunctul unui op liniar.
